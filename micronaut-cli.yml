@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.localhost.customer
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, discovery-core, gradle, grpc, http-client-test, java, java-application, junit, logback, lombok, micronaut-build, mockito, properties, readme, security-annotations, security-jwt, serialization-jackson, shade, testcontainers]
